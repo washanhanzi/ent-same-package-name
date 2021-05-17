@@ -1,0 +1,1 @@
+# ent-same-package-name
